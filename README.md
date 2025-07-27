@@ -1,4 +1,4 @@
-# 📚 Academic Research Web Scraper
+# Academic Research Web Scraper
 
 ## Overview
 
